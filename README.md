@@ -23,5 +23,6 @@
 - [Менеджер открытых форм 1С](https://github.com/SeiOkami/ManagerOpenForms) - инструмент разработчика для анализа и управления открытыми окнами 1С
 - [Примеры работы с 1С](https://github.com/SeiOkami/ExamplesOneS) - Репозиторий с примерами новых возможностей в платформе 1С
 - [Предложения по улучшению 1С](https://github.com/SeiOkami/OneS) - открытый трекер для регистрации и обсуждения предложений по развитию платформы 1С
+- [Реестр 1С в Telegram](https://github.com/SeiOkami/links-one-s) - Статический сайт с реестром всех каналов и чатов по теме 1С в Telegram
 - [SonarBslFileNaming](https://github.com/SeiOkami/SonarBslFileNaming) - JS скрипт для SonarQube, который изменяет отображение файлов модулей .bsl на 1Сные наименования объектов
 - [И другое](https://github.com/SeiOkami?tab=repositories)
