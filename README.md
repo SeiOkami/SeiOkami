@@ -17,9 +17,8 @@
 [![YouTube](https://img.shields.io/badge/-YOUTUBE-gray?style=flat&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@JuniorOneS)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-gray?style=flat&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/SeiOkami)
 
-**[Мой блог со всеми работами:](https://SeiOkami.github.io)**
-
 ### 💻 Projects
+- **[Мой блог со всеми работами:](https://SeiOkami.github.io)**
 - [Расширенный глобальный поиск 1С](https://github.com/SeiOkami/AdvancedGlobalSearchOneS) - фреймворк для построения иерархического меню в поле глобального поиска 1С
 - [Управление платформенными обработками](https://github.com/SeiOkami/ManagementPlatformDataProcessors) - расширение для подмены в режиме предприятия платформенных инструментов
 - [Менеджер открытых форм 1С](https://github.com/SeiOkami/ManagerOpenForms) - инструмент разработчика для анализа и управления открытыми окнами 1С
